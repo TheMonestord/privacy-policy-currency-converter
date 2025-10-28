@@ -1,0 +1,17 @@
+Gizlilik Politikası
+
+Uygulama: Anlık Kur Dönüştürücü
+
+1. Veri Toplama
+Bu uzantı hiçbir kişisel veri toplamaz, kaydetmez veya paylaşmaz. 
+Kullanıcı bilgileri hiçbir şekilde işlenmez.
+
+2. Kullanım Amacı
+Uzantı yalnızca para birimi dönüştürme işlevi sunar. 
+Veri depolama veya kullanıcı takibi yapılmaz.
+
+3. Veri Paylaşımı
+Herhangi bir veri üçüncü taraflarla veya sunucularla paylaşılmaz.
+
+4. İletişim
+Sorular için: TheMonestord üzerinden iletişime geçebilirsiniz.
